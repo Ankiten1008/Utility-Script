@@ -1,0 +1,2 @@
+PS1="\[$(tput setaf 166)\]\u\[$(tput setaf 228)\]@\h \[$(tput setaf 71)\]\W -> \[$(tput sgr0)\]";
+export PS1;
